@@ -1,0 +1,9 @@
+﻿./pointersorter “haa ha haha”
+./pointersorter “        abc”
+./pointersorter “abc        abcd”
+./pointersorter “123abc “
+./pointersorter “   I     really     want     an     A   in this project    “
+./pointersorter “”
+./pointersorter “           “
+./pointersorter “There should not be”   “two inputs”
+./pointersorter wow wow wow wow wow wow wow
